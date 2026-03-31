@@ -36,7 +36,7 @@ It replicates real-world <b>business intelligence workflows</b>, enabling stakeh
 
 <img src="https://img.shields.io/badge/Focus-Business%20Intelligence-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Type-Analytics%20Dashboard-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Think-Structure%20Graph-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Impact-Decision%20Making-purple?style=for-the-badge"/>
 
 </div>
@@ -123,11 +123,58 @@ It replicates real-world <b>business intelligence workflows</b>, enabling stakeh
 
 ---
 
-## 🛠️ Tools Used
-<ul>
-  <li><b>Microsoft Excel</b> – Data Cleaning & Preparation</li>
-  <li><b>Power BI</b> – Dashboard & Visualization</li>
-</ul>
+## 🛠️ Tools & Technologies
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" style="background:#161b22; padding:20px; border-radius:12px; border:1px solid #30363d;">
+
+### 📊 Microsoft Excel — Data Engineering Layer
+<img src="https://img.shields.io/badge/Role-Data%20Processing-green?style=flat-square"/>
+<br/><br/>
+
+• Advanced data cleaning & preprocessing  
+• Data transformation using formulas & functions  
+• Handling missing, inconsistent & noisy data  
+• Structured dataset preparation for analytics  
+• Scenario-based financial modeling  
+
+</td>
+
+<td width="50%" style="background:#161b22; padding:20px; border-radius:12px; border:1px solid #30363d;">
+
+### 📈 Power BI — Visualization & Intelligence Layer
+<img src="https://img.shields.io/badge/Role-Business%20Intelligence-yellow?style=flat-square"/>
+<br/><br/>
+
+• Interactive dashboard development  
+• KPI-driven visualization design  
+• Data modeling & relationship building  
+• Dynamic filtering & drill-down analysis  
+• Insight generation for decision-making  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## ⚡ Technical Capabilities Demonstrated
+
+<div style="background:#0d1117; padding:20px; border-radius:12px; border:1px solid #30363d;">
+
+🔹 End-to-end data pipeline (Cleaning → Modeling → Visualization)  
+🔹 Business intelligence & analytics thinking  
+🔹 Financial data interpretation & KPI design  
+🔹 Dashboard UX optimization for real-world usage  
+
+</div>
 
 ---
 

@@ -12,9 +12,33 @@
 ---
 
 ## 📌 Overview
-<div style="background-color:#0d1117; padding:15px; border-radius:10px; border:1px solid #30363d;">
-Built an <b>interactive financial analytics dashboard</b> using Excel and Power BI to simulate <b>AI-driven business insights</b>.  
-This project demonstrates data cleaning, KPI tracking, and business intelligence storytelling.
+
+<div align="center" style="background: linear-gradient(135deg, #0d1117, #161b22); padding:25px; border-radius:15px; border:1px solid #30363d;">
+
+<h3>🚀 CorpFin-360: AI-Powered Financial Intelligence Dashboard</h3>
+
+<p>
+Designed and developed an <b>interactive financial analytics system</b> using <b>Excel</b> and <b>Power BI</b> to simulate 
+<b>AI-driven decision-making in modern enterprises</b>.
+</p>
+
+<p>
+This project transforms raw financial data into <b>actionable business insights</b> through advanced 
+<b>KPI tracking, dynamic visualizations, and intelligent data modeling</b>.
+</p>
+
+<p>
+It replicates real-world <b>business intelligence workflows</b>, enabling stakeholders to 
+<b>analyze performance, identify growth opportunities, and make data-driven decisions</b>.
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Business%20Intelligence-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Type-Analytics%20Dashboard-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Impact-Decision%20Making-purple?style=for-the-badge"/>
+
 </div>
 
 ---

@@ -20,27 +20,80 @@ This project demonstrates data cleaning, KPI tracking, and business intelligence
 ---
 
 ## 🚀 Features
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
 
-<div style="flex:1; min-width:250px; background:#161b22; padding:15px; border-radius:10px;">
-💰 <b>Revenue, Cost & Profit Analysis</b><br/>
-Detailed financial breakdown with dynamic visuals
+<div align="center">
+
+<table>
+<tr>
+
+<td width="45%" style="background:#161b22; padding:20px; border-radius:12px; border:1px solid #30363d;">
+
+### 💰 Financial Intelligence Engine
+<img src="https://img.shields.io/badge/Focus-Revenue%20Optimization-green?style=flat-square"/>
+<br/><br/>
+• Multi-layered Revenue, Cost & Profit breakdown  
+• Margin analysis with trend visualization  
+• Identifies high-profit segments dynamically  
+• Business-focused financial storytelling  
+
+</td>
+
+<td width="45%" style="background:#161b22; padding:20px; border-radius:12px; border:1px solid #30363d;">
+
+### 🌍 Regional Performance Analytics
+<img src="https://img.shields.io/badge/Insight-Geographical%20Analysis-blue?style=flat-square"/>
+<br/><br/>
+• Region-wise KPI benchmarking  
+• Comparative performance dashboards  
+• Growth & decline pattern tracking  
+• Decision-ready regional insights  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="45%" style="background:#161b22; padding:20px; border-radius:12px; border:1px solid #30363d;">
+
+### 🎛️ Smart Interactive Controls
+<img src="https://img.shields.io/badge/UX-Dynamic%20Filtering-orange?style=flat-square"/>
+<br/><br/>
+• Multi-dimensional filters (Month, Region, Company)  
+• Drill-down & slice-and-dice capability  
+• Real-time dashboard updates  
+• User-driven exploration  
+
+</td>
+
+<td width="45%" style="background:#161b22; padding:20px; border-radius:12px; border:1px solid #30363d;">
+
+### 📊 KPI & Decision Intelligence
+<img src="https://img.shields.io/badge/Data-KPI%20Driven-purple?style=flat-square"/>
+<br/><br/>
+• Core KPI tracking (Revenue, Profit, Growth)  
+• Trend forecasting patterns  
+• Performance anomaly detection  
+• Executive-level dashboard insights  
+
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
-<div style="flex:1; min-width:250px; background:#161b22; padding:15px; border-radius:10px;">
-🌍 <b>Regional Performance</b><br/>
-Compare performance across regions
-</div>
+---
 
-<div style="flex:1; min-width:250px; background:#161b22; padding:15px; border-radius:10px;">
-🎛️ <b>Interactive Filters</b><br/>
-Filter by Month, Region, Company
-</div>
+## ⚡ Advanced Capabilities
 
-<div style="flex:1; min-width:250px; background:#161b22; padding:15px; border-radius:10px;">
-📊 <b>KPI Insights</b><br/>
-Track business performance metrics
-</div>
+<div style="background:#0d1117; padding:20px; border-radius:12px; border:1px solid #30363d;">
+
+🔹 Automated data cleaning & transformation pipeline  
+🔹 Business scenario simulation (AI-like decision modeling)  
+🔹 Insight-driven visualization design  
+🔹 Scalable dashboard structure for real-world use  
 
 </div>
 

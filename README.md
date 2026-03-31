@@ -55,9 +55,8 @@ Track business performance metrics
 ---
 
 ## 📸 Dashboard Preview
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Your+Dashboard+Preview" width="80%"/>
-</p>
+<img width="1372" height="750" alt="Screenshot 2026-03-30 220435" src="https://github.com/user-attachments/assets/bb58030f-0c44-46cd-8d48-949d14bda2da" />
+
 
 ---
 
